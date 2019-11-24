@@ -123,8 +123,10 @@ A curated list of podcasts we like to listen to.
 * [Listen and Learn about AWS](https://aws.amazon.com/podcasts/aws-podcast/) - Jeff Barr discusses various aspects of the Amazon Web Services (AWS) offering. Each podcast include AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees.
 * [Magic Read Along](http://www.magicreadalong.com) - A podcast about programming, life and the internet. Topics include FP, OOP, development practices, and a dip into our personal lives from time to time.
 * [Makers](https://crew.co/) - Unexpected life moments that have had an impact on today’s most influential and experimental makers.
+* [Making It](https://www.makingitpodcast.com/) - Three different makers with different backgrounds talking about creativity, design and making things with your bare hands.
 * [Mastering Embedded Systems](https://embeddedsuccess.com/podcast/) - I have identified four major problems in mastering Embedded Systems: 1. Not enough specialists; 2. inadequate design and poor detections of faults; 3. mandatory multi-site approaches are failing; 4. bad mistakes in managing Virtual Teams I'll teach you the know-how and the tools to overcome these challenges.
 * [Mind the Cloud Podcast](http://mindthecloud.com) - The podcast about the developers and companies using the cloud to create the future.
+* [Mini PC Show](https://podnutz.com/category/minipc/) - All about the latest single board computers.
 * [MS Dev Show](https://msdevshow.com/) - THE podcast for Microsoft developers. Jason Young and Carl Schweitzer talk about the latest in developer news covering topics such as the Azure cloud, Windows, Windows Phone, Visual Studio, and cross-platform development using the Microsoft platform.
 * [New Rustacean](https://newrustacean.com/) - This is a podcast about learning the programming language Rust—from scratch.
 * [Note To Self](https://www.wnycstudios.org/shows/notetoself) - Host Manoush Zomorodi talks with everyone from big name techies to elementary school teachers about the effects of technology on our lives, in a quest for the smart choices that will help you think and live better.
